@@ -1,0 +1,17 @@
+{
+  "name": "@rusman/howtolab",
+  "version": "1.0.1",
+  "description": "howtolab",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "author": "rafeena",
+  "license": "ISC",
+  "dependencies": {},
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "c:\\users\\mrsch\\onedrive\\win program homework\\howtolab\\readme.md "
+  }
+}
